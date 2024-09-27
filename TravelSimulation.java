@@ -1,5 +1,3 @@
-//Main function edited by Samay Sehgal (04/10/2023
-// Main function edited by Bhavjot Kaur Pal (05/10/2023)
 
 
 class TravelSimulation {

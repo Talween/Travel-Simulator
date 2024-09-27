@@ -1,4 +1,4 @@
-//Created by BHavjot Kaur Pal (05/10/2023)
+
 
 public class CarAdapter implements Vehicle {
     private Car car;

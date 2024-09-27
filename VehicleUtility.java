@@ -1,4 +1,4 @@
-// Created by Bhavjot Kaur Pal (05/10/2023)
+
 
 public class VehicleUtility {
     public static void printVehicleInformation(Vehicle vehicle, String vehicleType) {

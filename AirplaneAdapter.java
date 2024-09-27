@@ -1,4 +1,4 @@
-//Created by Bhavjot Kaur Pal (05/10/2023)
+
 
 public class AirplaneAdapter implements Vehicle {
     private Airplane airplane;

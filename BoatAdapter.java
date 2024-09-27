@@ -1,4 +1,4 @@
-//Created by Samay Sehgal (05/10/2023)
+
 
 public class BoatAdapter implements Vehicle {
     private Boat boat;
